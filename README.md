@@ -1,5 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Pavel</h1>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vendr1k&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<h2 >Hi there 👋, I'm Pavel</h2>
+**About me**
+
+- 💼 junior FrontEnd Engineer
+- 🌱 I’m currently learning ReactJS + TypeScript
+- 💬 Ask me about anything [here](https://github.com/Vendr1k/Vendr1k/issues)
+- 💬 Ask me about anything [here](https://t.me/@Vendr1K)
+
+<code><img height="20" alt="javascript" src="https://cdn.simpleicons.org/javascript/#F7DF1E"></code>
+<code><img height="20" alt="ReactJS" src="https://cdn.simpleicons.org/react/#61DAFB"></code>
+<code><img height="20" alt="typescript" src="https://cdn.simpleicons.org/typescript"></code>
+<code><img height="20" alt="nextJs" src="https://cdn.simpleicons.org/nextdotjs"></code>
+<code><img height="20" alt="redux" src="https://cdn.simpleicons.org/redux"></code>
+
 <a href="https://github.com/Vendr1k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vendr1k&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 **Vendr1K/Vendr1K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
