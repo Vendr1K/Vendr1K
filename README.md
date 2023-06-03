@@ -9,7 +9,7 @@
 <code><img height="20" alt="javascript" src="https://cdn.simpleicons.org/javascript/#F7DF1E"></code>
 <code><img height="20" alt="ReactJS" src="https://cdn.simpleicons.org/react/#61DAFB"></code>
 <code><img height="20" alt="typescript" src="https://cdn.simpleicons.org/typescript"></code>
-<code><img height="20" alt="nextJs" src="https://cdn.simpleicons.org/nextdotjs/#000000"></code>
+<code><img height="20" alt="nextJs" src="https://cdn.simpleicons.org/nextdotjs/#FFFFFF"></code>
 <code><img height="20" alt="redux" src="https://cdn.simpleicons.org/redux"></code>
 
 <a href="https://github.com/Vendr1k/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vendr1k&layout=compact&theme=buefy&hide_border=true" /></a>
