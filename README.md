@@ -1,7 +1,7 @@
 <h2 >Hi there 👋, I'm Pavel</h2>
 **About me**
 
-- 💼 junior FrontEnd Engineer
+- 💼 FrontEnd Engineer
 - 🌱 I’m currently learning ReactJS + TypeScript
 - 💬 Ask me about anything [here](https://github.com/Vendr1k/Vendr1k/issues)
 - 💬 Ask me about anything [here](https://t.me/@Vendr1K)
